@@ -7,5 +7,5 @@ You will need [Node.js](https://nodejs.org/en/download/) and [npm](https://docs.
 Once installed type the following:
 ```
 npm i --save
-npm run start
+npm start
 ```
